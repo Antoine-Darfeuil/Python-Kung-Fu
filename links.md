@@ -18,3 +18,13 @@
 
 ### OOP:
 * http://igm.univ-mlv.fr/~cherrier/download/imac/Poo6.pdf
+
+
+### Katas :
+* https://www.codewars.com/
+* https://technologyconversations.com/2013/12/29/learning-a-new-programming-language-through-katas-tdd-and-cyberdojo/
+* https://github.com/cabhishek/python-kata
+* https://github.com/clair3st/code-katas
+* https://github.com/palcu/python-kata
+* https://hackhands.com/dont-code-katas/
+* http://codekata.com/
