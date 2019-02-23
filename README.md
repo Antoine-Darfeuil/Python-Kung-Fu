@@ -1,2 +1,2 @@
-# Python-Kung-Fu
+# Python-Training
 Python Programming Language
